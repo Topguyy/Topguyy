@@ -35,7 +35,7 @@ I got into offensive security because I wanted to understand how things actually
 
 ---
 
-## attack surface
+## Attack surface
 
 ```powershell
 $focus = @(
@@ -50,7 +50,7 @@ $focus = @(
 
 ---
 
-## skills
+## Skills
 
 **Languages**
 
@@ -82,7 +82,7 @@ $focus = @(
 
 ---
 
-## current grind
+## Current Grind
 
 - [ ] Complete **CPTS** (HackTheBox Certified Penetration Testing Specialist)
 - [ ] Write a writeup for every machine I solve along the way
@@ -91,31 +91,33 @@ $focus = @(
 
 ---
 
-## writeups
+## Writeups
 
 I post a writeup for every HTB machine I finish — retired ones only, obviously. I try to explain the *why* behind each step, not just dump commands. Still early but the list is growing.
 
-→ [`htb-writeups`](https://github.com/Topguyyy/htb-writeups)
+→ [`HTB-Writeups`](https://github.com/Topguyyy/HTB-Writeups)
 
 ---
 
-## pentesting notes
+## PenTesting Notes
 
 One deep-dive note per CPTS module. I go further than what HTB covers — extra research, real-world context, things that didn't click at first, and resources I found along the way.
 
-→ [`htb-pentesting-notes`](https://github.com/Topguyyy/htb-pentesting-notes)
+→ [`HTB-PenTesting-Notes`](https://github.com/Topguyyy/HTB-PenTesting-Notes)
 
 ---
 
-## pinned projects (building as i go)
+## Pinned Projects (building as i go)
 
 | Repo | What it covers |
 |---|---|
-| `htb-writeups` | HackTheBox writeups — one per machine, posted after retirement |
-| `htb-pentesting-notes` | Deep-dive notes for every CPTS module, going beyond the material |
-| `ad-lab-notes` | My home AD lab setup and attack scenarios |
-| `kerberos-attacks-explained` | Breaking down Kerberoasting, AS-REP Roasting, ticket attacks |
-| `windows-privesc-checklist` | Manual privesc checklist I actually use |
+| `HTB-Writeups` | HackTheBox writeups — one per machine, posted after retirement |
+| `HTB-PenTesting-Notes` | Deep-dive notes for every CPTS module, going beyond the material |
+| `AD-Lab-Notes` | My home AD lab setup and attack scenarios |
+| `Kerberos-Attacks-Explained` | Breaking down Kerberoasting, AS-REP Roasting, ticket attacks |
+| `Linux-Privesc-Checklist` | Manual privesc checklist I actually use |
+| `Windows-Privesc-Checklist` | Manual privesc checklist I actually use |
+
 
 ---
 
