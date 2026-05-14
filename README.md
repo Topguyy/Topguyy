@@ -119,12 +119,6 @@ One deep-dive note per CPTS module. I go further than what HTB covers — extra 
 
 ---
 
-## a thought
-
-I used to skip writing things down. Bad idea. Now I write up everything; if I can't explain what I just did, I probably got lucky and didn't actually learn it. The writeups and notes are as much for me as they are for anyone else.
-
----
-
 <div align="center">
 
 *Cairo → root*
