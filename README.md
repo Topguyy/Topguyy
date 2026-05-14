@@ -11,9 +11,7 @@
 
 **`Topguyyy`** — Offensive Security · Active Directory · Red Team
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Topguyyy)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/)
-[![Twitter/X](https://img.shields.io/badge/X-@Topguyyy-black?style=flat-square&logo=x&logoColor=white)](https://x.com/Topguyyy)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/1981999)
 
 </div>
 
