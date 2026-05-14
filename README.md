@@ -12,8 +12,7 @@
 **`Topguyy`** — Offensive Security · Active Directory · Red Team
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/public/users/1981999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-tobgui-/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-tobgui-/)
 </div>
 
 ---
