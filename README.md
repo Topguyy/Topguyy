@@ -94,7 +94,7 @@ $focus = @(
 
 I post a writeup for every HTB machine I finish — retired ones only, obviously. I try to explain the *why* behind each step, not just dump commands. Still early but the list is growing.
 
-→ [`HTB-Writeups`](https://github.com/Topguyyy/HTB-Writeups)
+→ [`HTB-Writeups`](https://github.com/Topguyy/HTB-Writeups)
 
 ---
 
@@ -102,7 +102,7 @@ I post a writeup for every HTB machine I finish — retired ones only, obviously
 
 One deep-dive note per CPTS module. I go further than what HTB covers — extra research, real-world context, things that didn't click at first, and resources I found along the way.
 
-→ [`HTB-PenTesting-Notes`](https://github.com/Topguyyy/HTB-PenTesting-Notes)
+→ [`HTB-PenTesting-Notes`](https://github.com/Topguyy/HTB-PenTesting-Notes)
 
 ---
 
